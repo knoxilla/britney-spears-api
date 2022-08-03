@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-britneyspearsapi-dev-105627-authRole",
+      "UnauthRoleArn": "arn:aws:iam::370563002060:role/amplify-britneyspearsapi-dev-105627-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::370563002060:role/amplify-britneyspearsapi-dev-105627-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-britneyspearsapi-dev-105627-deployment",
+      "UnauthRoleName": "amplify-britneyspearsapi-dev-105627-unauthRole",
+      "StackName": "amplify-britneyspearsapi-dev-105627",
+      "StackId": "arn:aws:cloudformation:us-east-1:370563002060:stack/amplify-britneyspearsapi-dev-105627/7471bd50-133c-11ed-9040-12920c137c03",
+      "AmplifyAppId": "d2r5biafbo3ifj"
+    }
+  }
+}
